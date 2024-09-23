@@ -16,7 +16,7 @@ This project uses an Arduino to control an Electronic Speed Controller (ESC) bas
 
 ## Wiring Diagram
 
-![Wiring Diagram](path/to/wiring_diagram.png)  <!-- Update the path to your wiring diagram image -->
+![Wiring Diagram](https://github.com/Omar-Rihani/Brushless-Motor-Project/blob/main/image.jpg)
 
 ### Connections
 
