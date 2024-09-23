@@ -73,7 +73,3 @@ The code consists of two main parts: the `setup()` function and the `loop()` fun
 - If the LCD does not display any text, check the I2C connections and ensure the address is correct.
 - If the motor does not respond, verify the ESC connections and the power supply.
 - Monitor the serial output for any debug messages or errors.
-
-## License
-
-This project is open-source and can be modified and shared under the MIT License.
